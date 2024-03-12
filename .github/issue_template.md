@@ -1,3 +1,12 @@
+---
+name: Proposed Topic
+about: Propose a topic
+title: ''
+labels: New Proposal
+assignees: ''
+
+---
+
 **Example of capability project proposal
 **
 
