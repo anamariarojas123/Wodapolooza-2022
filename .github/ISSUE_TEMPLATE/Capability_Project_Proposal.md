@@ -1,8 +1,8 @@
 ---
-Name: Capability Project Proposal
-About: Propose a Capability Project Proposal
-Title: <Enter Title of Proposal>
-Labels: Capability Project Proposal
+name: Capability Project Proposal
+about: Propose a Capability Project Proposal
+title: <Enter Title of Proposal>
+labels: Capability Project Proposal
 
 ---
 
