@@ -23,24 +23,24 @@ labels: Large Experimental Demo Proposal
 
 ### Demo Details
 
-**Quantum Computing Parameters:**
-- Number of circuits (including error mitigation overhead):
-- QASM files for circuits ready:
-- Depths:
-- Number of qubits:
-- Capabilities required:
-- Comments on classical hardness:
-- Classical simulations performed:
+#### Quantum Computing Parameters: 
+- **Number of circuits (including error mitigation overhead):**
+- **QASM files for circuits ready:**
+- **Depths:**
+- **Number of qubits:**
+- **Capabilities required:**
+- **Comments on classical hardness:**
+- **Classical simulations performed:**
 
-**Classical Distributed Computing Requirements:**
-- Number nodes (or cores per node):
+#### Classical Distributed Computing Requirements:
+- **Number nodes (or cores per node):**
   - Embarrassingly parallel
   - MPI/threaded
-- Memory requirements (MiB):
+- **Memory requirements (MiB):**
   - Single node
   - Per CPU
-- Wall-time ("time limit"):
-- GPU enabled:
+- **Wall-time ("time limit"):**
+- **GPU enabled:**
 
 <!-- REMINDER - Please fill out the ^^ above to the best of your abilities. -->
 
