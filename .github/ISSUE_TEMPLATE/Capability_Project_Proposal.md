@@ -7,9 +7,9 @@ Labels: Capability Project Proposal
 ---
 
 ## Projects proposals
-• Each subgroup can produce project proposals
-• When ready, proposals can be read out at the global monthly meetings
-• Different subgroups/teams can contribute to the proposals if it makes sense
+- Each subgroup can produce project proposals
+- When ready, proposals can be read out at the global monthly meetings
+- Different subgroups/teams can contribute to the proposals if it makes sense
 
 <!-- INSTRUCTIONS - Please fill out the template below to the best of your abilities. -->
 
