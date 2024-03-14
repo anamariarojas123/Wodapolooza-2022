@@ -6,19 +6,19 @@ labels: Capability Project Proposal
 
 ---
 
-## Projects proposals
+## Project Proposals
 - Each subgroup can produce project proposals
 - When ready, proposals can be read out at the global monthly meetings
 - Different subgroups/teams can contribute to the proposals if it makes sense
 
-<!-- INSTRUCTIONS - Please fill out the template below to the best of your abilities. -->
+<!-- INSTRUCTIONS - Please fill out the template below to the best of your abilities. Any text within the arrow and dash areas is hidden from final view. -->
 
 # Capability Project Proposal
 
-### Title of Proposal
+### Update Here: Title of Proposal
 <!-- ^^ Give your proposal a name to distinguish it --> 
 
-### Project Collaborators
+### Update Here: Project Collaborators
 <!-- ^^ Enter the names of those collaborators that are already involved --> 
 
 ### Proposal Details
