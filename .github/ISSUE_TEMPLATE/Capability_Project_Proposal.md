@@ -34,8 +34,7 @@ labels: Capability Project Proposal
 
 <br>
 <br>
-<br>
-<br>
+
 **Access to IBM hardware:**
 If proposals involve experiments on quantum hardware, we can assess feasibility based on current device time budget. Aggie Branczyk (Agata.Branczyk@ibm.com), will help facilitate hardware support
 and enablement.
