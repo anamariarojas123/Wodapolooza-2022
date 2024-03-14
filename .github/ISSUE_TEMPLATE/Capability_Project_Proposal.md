@@ -25,9 +25,12 @@ labels: Capability Project Proposal
 
 - **Improves a component/algorithm:**
   - Vertical scope (high-impact for one use case): 
-  - Horizontal scope (impact for many use cases)
+  - Horizontal scope (impact for many use cases):
+
 - **Describe scope in detail:**
+
 - **Describe expertise required vs existing expertise in the team:**
+
 - **Describe technology requirements:**
 
 <!-- REMINDER - Please fill out the ^^ above to the best of your abilities. -->
