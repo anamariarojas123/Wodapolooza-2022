@@ -15,10 +15,10 @@ labels: Large Experimental Demo Proposal
 
 # Large Experimental Demo Proposal
 
-### Update Here: Title of Proposal
+### Title of Proposal: UPDATE HERE
 <!-- ^^ Give your proposal a name to distinguish it --> 
 
-### Update Here: Demo Collaborators
+### Demo Collaborators: UPDATE HERE
 <!-- ^^ Enter the names of those collaborators that are already involved --> 
 
 ### Demo Details
