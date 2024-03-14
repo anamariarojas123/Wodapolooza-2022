@@ -3,7 +3,6 @@ Name: Capability Project Proposal
 About: Propose a Capability Project Proposal
 Title: <Enter Title of Proposal>
 Labels: Capability Project Proposal
-Assignees: <Enter names of those involved>
 
 ---
 
