@@ -15,20 +15,20 @@ labels: Capability Project Proposal
 
 # Capability Project Proposal
 
-### Update Here: Title of Proposal
+### Title of Proposal: UPDATE HERE
 <!-- ^^ Give your proposal a name to distinguish it --> 
 
-### Update Here: Project Collaborators
+### Project Collaborators: UPDATE HERE
 <!-- ^^ Enter the names of those collaborators that are already involved --> 
 
 ### Proposal Details
 
-- Improves a component/algorithm:
+- **Improves a component/algorithm:**
   - Vertical scope (high-impact for one use case): 
   - Horizontal scope (impact for many use cases)
-- Describe scope in details
-- Describe expertise required VS existing expertise in the team
-- Describe technology requirements
+- **Describe scope in detail:**
+- **Describe expertise required vs existing expertise in the team:**
+- **Describe technology requirements:**
 
 <!-- REMINDER - Please fill out the ^^ above to the best of your abilities. -->
 
